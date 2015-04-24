@@ -1,0 +1,2 @@
+# SNPFileCreator
+GenePattern SNPFIleCreator module.
